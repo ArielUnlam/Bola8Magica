@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\bin\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.deps.json
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\bin\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.dll
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\bin\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.pdb
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.dll
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\refint\PW3-2022-1C-Bola8.Entidades.dll
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\PW3-2022-1C-Bola8.Entidades.pdb
+C:\Users\Lenovo\source\repos\Ejercicios\Bola8\PW3-2022-1C-Bola8.Entidades\PW3-2022-1C-Bola8.Entidades\obj\Debug\net5.0\ref\PW3-2022-1C-Bola8.Entidades.dll
